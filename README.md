@@ -1,3 +1,3 @@
 ### Hi there 👋
-- 🌱 I’m currently learning Computer Science and Biology
-- 🔭 Planning to do projects in Bioinformatics
+- 🌱 I’m currently learning Computer Science, Machine Learning and Biology
+- 🔭 Planning to do projects in ML
